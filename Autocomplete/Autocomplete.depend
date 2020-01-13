@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1559143021 source:c:\users\Сеня\desktop\С++\autocomplete\main.cpp
+	<iostream>
+	"autocomplete.h"
+
+1559102311 c:\users\Сеня\desktop\С++\autocomplete\term.h
+	<vector>
+	<functional>
+
+1559153857 source:c:\users\Сеня\desktop\С++\autocomplete\term.cpp
+	"term.h"
+	<vector>
+	<functional>
+
+1559154187 source:c:\users\Сеня\desktop\С++\autocomplete\binary_search_deluxe.cpp
+	<vector>
+	<functional>
+	<algorithm>
+	<bits/stdc++.h>
+	"binary_search_deluxe.h"
+
+1559154187 c:\users\Сеня\desktop\С++\autocomplete\binary_search_deluxe.h
+	"term.h"
+	<vector>
+	<functional>
+
+1559077408 c:\users\Сеня\desktop\С++\autocomplete\autocomplete.h
+	<vector>
+	"binary_search_deluxe.h"
+
+1559076956 source:c:\users\Сеня\desktop\С++\autocomplete\autocomplete.cpp
+	<vector>
+	<algorithm>
+	"autocomplete.h"
+

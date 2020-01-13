@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1559257611 source:c:\users\Сеня\desktop\С++\puzzle\main.cpp
+	<iostream>
+	"solver.h"
+	<vector>
+	<random>
+
+1559165839 c:\users\Сеня\desktop\С++\puzzle\board.h
+	<string>
+	<vector>
+
+1559236673 c:\users\Сеня\desktop\С++\puzzle\solver.h
+	"board.h"
+	<unordered_set>
+	<unordered_map>
+	<queue>
+
+1559287124 source:c:\users\Сеня\desktop\С++\puzzle\board.cpp
+	"board.h"
+	<time.h>
+	<algorithm>
+	<iostream>
+	<random>
+
+1559236713 source:c:\users\Сеня\desktop\С++\puzzle\solver.cpp
+	"solver.h"
+	<iostream>
+	<queue>
+	<algorithm>
+
